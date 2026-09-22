@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Ternary Search
 |  |
 | ------- |
