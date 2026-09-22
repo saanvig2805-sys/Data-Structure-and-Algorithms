@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1859-sorting-the-sentence](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+## String
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
