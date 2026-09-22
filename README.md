@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0414-third-maximum-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
@@ -63,10 +66,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
