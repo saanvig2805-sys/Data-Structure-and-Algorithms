@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
 ## Ternary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
@@ -61,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
 | [1859-sorting-the-sentence](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1859-sorting-the-sentence) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
