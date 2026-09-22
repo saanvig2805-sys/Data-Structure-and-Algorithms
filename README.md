@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
