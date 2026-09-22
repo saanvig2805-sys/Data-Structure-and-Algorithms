@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0162-find-peak-element) |
+| [0414-third-maximum-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/saanvig2805-sys/Data-Structure-and-Algorithms/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
